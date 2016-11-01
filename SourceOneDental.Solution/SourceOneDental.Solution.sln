@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25618.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceOneDental.UI", "..\SourceOneDental.UI\SourceOneDental.UI.csproj", "{35B2A415-D0FD-4807-AC60-4FB69D0E2867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceOneDental.BO", "..\SourceOneDental.BO\SourceOneDental.BO.csproj", "{91E2AA28-D0A9-4C9A-932D-6B4E0E679784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B2A415-D0FD-4807-AC60-4FB69D0E2867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B2A415-D0FD-4807-AC60-4FB69D0E2867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B2A415-D0FD-4807-AC60-4FB69D0E2867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B2A415-D0FD-4807-AC60-4FB69D0E2867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E2AA28-D0A9-4C9A-932D-6B4E0E679784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E2AA28-D0A9-4C9A-932D-6B4E0E679784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E2AA28-D0A9-4C9A-932D-6B4E0E679784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E2AA28-D0A9-4C9A-932D-6B4E0E679784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

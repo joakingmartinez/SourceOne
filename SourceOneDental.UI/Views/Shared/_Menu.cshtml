@@ -1,0 +1,38 @@
+﻿<div class="container-fluid main-nav clearfix">
+    <div class="nav-collapse">
+        <ul class="nav">
+            <li>
+                <a class="current" href="/Home"><span aria-hidden="true" class="se7en-home"></span>Home</a>
+            </li>
+            
+            <li>
+                <a href="/Home"><span aria-hidden="true" class="se7en-feed"></span>My Quotes</a>
+            </li>
+
+            @if (ViewBag.UserRolId == 1)
+            {
+                <li class="dropdown">
+                    <a data-toggle="dropdown" href="#">
+                        <span aria-hidden="true" class="se7en-forms"></span>Maintenances<b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/Users">Users</a></li>
+                        <li><a href="/UserRols">Roles</a></li>
+                    </ul>
+                </li>
+            }
+            else if (ViewBag.UserRolId == 2)
+            {
+                <li>
+                    <a href="/Home"><span aria-hidden="true" class="se7en-star"></span>Rol: Seller</a>
+                </li>
+            }
+            else if (ViewBag.UserRolId == 3)
+            {
+                <li>
+                    <a href="/Home"><span aria-hidden="true" class="se7en-forms"></span>Rol: Client</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

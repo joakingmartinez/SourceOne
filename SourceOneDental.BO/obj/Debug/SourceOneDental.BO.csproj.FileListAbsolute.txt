@@ -1,0 +1,12 @@
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\SourceOneDental.BO.dll.config
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\SourceOneDental.BO.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\SourceOneDental.BO.pdb
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\EntityFramework.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\OFUtility.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\EntityFramework.xml
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Debug\OFUtility.pdb
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\obj\Debug\SourceOneDental.BO.csprojResolveAssemblyReference.cache
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\obj\Debug\SourceOneDental.BO.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\obj\Debug\SourceOneDental.BO.pdb

@@ -1,0 +1,11 @@
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\SourceOneDental.BO.dll.config
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\SourceOneDental.BO.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\SourceOneDental.BO.pdb
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\EntityFramework.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\OFUtility.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\EntityFramework.xml
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\bin\Release\OFUtility.pdb
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\obj\Release\SourceOneDental.BO.dll
+C:\Users\OFrometa\Documents\Visual Studio 15\Projects\SourceOneDental\SourceOneDental.BO\obj\Release\SourceOneDental.BO.pdb
